@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="D'todo">
+<rect width="64" height="64" rx="10" fill="#15212B"/>
+<rect x="6" y="6" width="52" height="52" rx="6" fill="#FFC400"/>
+<path d="M14 18h14c11 0 18 6 18 14S39 46 28 46H14z" fill="#15212B"/>
+<path d="M22 25v14h6c6 0 10-3 10-7s-4-7-10-7z" fill="#FFC400"/>
+<rect x="48" y="16" width="5" height="12" rx="2.5" fill="#15212B" transform="rotate(14 50 22)"/>
+</svg>

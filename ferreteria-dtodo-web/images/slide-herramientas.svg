@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Martillo, wincha y llave">
+<rect width="800" height="600" fill="#FFC400"/>
+<circle cx="560" cy="250" r="230" fill="#FFD43B"/>
+<g fill="#15212B" opacity=".08"><rect x="0" y="0" width="800" height="600"/></g>
+<!-- piso -->
+<rect y="500" width="800" height="100" fill="#15212B"/>
+<g fill="#FFC400"><path d="M0 500h60l-40 100H-40z"/><path d="M120 500h60l-40 100H80z"/><path d="M240 500h60l-40 100H200z"/><path d="M360 500h60l-40 100H320z"/><path d="M480 500h60l-40 100H440z"/><path d="M600 500h60l-40 100H560z"/><path d="M720 500h60l-40 100H680z"/></g>
+<!-- martillo -->
+<g transform="rotate(-32 430 290)">
+<rect x="405" y="130" width="50" height="380" rx="20" fill="#B07A3F"/>
+<rect x="405" y="130" width="14" height="380" rx="7" fill="#C98F52"/>
+<rect x="320" y="95" width="215" height="80" rx="10" fill="#2B3E4C"/>
+<rect x="320" y="95" width="215" height="22" rx="10" fill="#44606F"/>
+<path d="M320 100 C270 100 235 135 215 160 C255 150 290 150 320 165Z" fill="#2B3E4C"/>
+</g>
+<!-- wincha -->
+<g>
+<circle cx="190" cy="400" r="112" fill="#15212B"/>
+<circle cx="190" cy="400" r="86" fill="#D2392B"/>
+<circle cx="190" cy="400" r="46" fill="#15212B"/>
+<circle cx="190" cy="400" r="16" fill="#FFC400"/>
+<rect x="190" y="470" width="400" height="34" fill="#EEF0EF"/>
+<g stroke="#15212B" stroke-width="3"><path d="M230 470v18M260 470v14M290 470v18M320 470v14M350 470v18M380 470v14M410 470v18M440 470v14M470 470v18M500 470v14M530 470v18M560 470v14"/></g>
+<rect x="590" y="462" width="22" height="50" rx="4" fill="#15212B"/>
+</g>
+<!-- llave -->
+<g transform="rotate(28 620 380)">
+<rect x="600" y="300" width="42" height="230" rx="18" fill="#9FB0BB"/>
+<rect x="600" y="300" width="12" height="230" rx="6" fill="#C9D4DB"/>
+<path d="M575 305a46 46 0 1 1 92 0v40h-30v-30h-32v30h-30z" fill="#9FB0BB"/>
+</g>
+</svg>

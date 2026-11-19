@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Bolsa de cemento, ladrillos y fierro">
+<rect width="800" height="600" fill="#FFC400"/>
+<circle cx="250" cy="220" r="230" fill="#FFD43B"/>
+<rect y="500" width="800" height="100" fill="#15212B"/>
+<g fill="#FFC400"><path d="M0 500h60l-40 100H-40z"/><path d="M120 500h60l-40 100H80z"/><path d="M240 500h60l-40 100H200z"/><path d="M360 500h60l-40 100H320z"/><path d="M480 500h60l-40 100H440z"/><path d="M600 500h60l-40 100H560z"/><path d="M720 500h60l-40 100H680z"/></g>
+<!-- bolsa -->
+<g transform="translate(240 310)">
+<path d="M-110-90q110-30 220 0l14 280q-124 24-248 0z" fill="#C9CFD3" stroke="#15212B" stroke-width="9" stroke-linejoin="round"/>
+<path d="M-104-60q104-26 208 0" fill="none" stroke="#15212B" stroke-width="5" opacity=".4"/>
+<rect x="-84" y="0" width="168" height="84" fill="#D2392B"/>
+<text x="0" y="55" font-family="Barlow Condensed, Arial Narrow, sans-serif" font-weight="800" font-size="44" text-anchor="middle" fill="#EEF0EF">CEMENTO</text>
+<text x="0" y="150" font-family="Barlow Condensed, Arial Narrow, sans-serif" font-weight="700" font-size="30" text-anchor="middle" fill="#15212B">42.5 kg</text>
+</g>
+<!-- ladrillos -->
+<g stroke="#15212B" stroke-width="7" stroke-linejoin="round">
+<rect x="460" y="430" width="140" height="70" fill="#C8643C"/><rect x="600" y="430" width="140" height="70" fill="#B9552F"/>
+<rect x="530" y="360" width="140" height="70" fill="#B9552F"/><rect x="390" y="360" width="140" height="70" fill="#C8643C" transform="translate(0 0)"/>
+<rect x="460" y="290" width="140" height="70" fill="#C8643C"/>
+</g>
+<!-- fierro -->
+<g stroke="#15212B" stroke-width="6" stroke-linecap="round">
+<path d="M440 255l300-70" stroke-width="16"/><path d="M440 255l300-70" stroke="#9FB0BB" stroke-width="10"/>
+<path d="M440 225l300-70" stroke-width="16"/><path d="M440 225l300-70" stroke="#9FB0BB" stroke-width="10"/>
+</g>
+</svg>

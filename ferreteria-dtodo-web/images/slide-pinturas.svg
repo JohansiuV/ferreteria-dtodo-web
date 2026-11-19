@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Galón de pintura, rodillo y brocha">
+<rect width="800" height="600" fill="#FFC400"/>
+<circle cx="580" cy="210" r="220" fill="#FFD43B"/>
+<rect y="500" width="800" height="100" fill="#15212B"/>
+<g fill="#FFC400"><path d="M0 500h60l-40 100H-40z"/><path d="M120 500h60l-40 100H80z"/><path d="M240 500h60l-40 100H200z"/><path d="M360 500h60l-40 100H320z"/><path d="M480 500h60l-40 100H440z"/><path d="M600 500h60l-40 100H560z"/><path d="M720 500h60l-40 100H680z"/></g>
+<!-- galón -->
+<g transform="translate(250 270)">
+<rect x="-110" y="0" width="220" height="230" rx="14" fill="#EEF0EF" stroke="#15212B" stroke-width="9"/>
+<ellipse cx="0" cy="0" rx="110" ry="30" fill="#C9CFD3" stroke="#15212B" stroke-width="9"/>
+<ellipse cx="0" cy="0" rx="86" ry="20" fill="#2F6FA3"/>
+<path d="M-60 -2c10 40 10 40 30 30" fill="none"/>
+<rect x="-110" y="70" width="220" height="90" fill="#2F6FA3"/>
+<rect x="-110" y="70" width="220" height="14" fill="#15212B" opacity=".25"/>
+<path d="M-70 60q0 34 18 34t18-34M20 60q0 54 20 54t20-54" fill="#2F6FA3"/>
+<path d="M-90-80q90-80 180 0" fill="none" stroke="#15212B" stroke-width="8"/>
+</g>
+<!-- rodillo -->
+<g transform="translate(560 220) rotate(-18)">
+<rect x="-100" y="-34" width="200" height="68" rx="30" fill="#2F6FA3" stroke="#15212B" stroke-width="8"/>
+<rect x="-100" y="-34" width="200" height="16" rx="8" fill="#6FA6D2" opacity=".7"/>
+<path d="M100 0h40q22 0 22 22v30" fill="none" stroke="#15212B" stroke-width="10" stroke-linecap="round"/>
+<rect x="142" y="50" width="26" height="130" rx="10" fill="#B07A3F" stroke="#15212B" stroke-width="8"/>
+</g>
+<!-- brocha -->
+<g transform="translate(640 420) rotate(24)">
+<rect x="-18" y="-10" width="36" height="120" rx="14" fill="#B07A3F" stroke="#15212B" stroke-width="7"/>
+<rect x="-30" y="-60" width="60" height="52" fill="#C9CFD3" stroke="#15212B" stroke-width="7"/>
+<path d="M-30-60h60l8-60h-76z" fill="#2F6FA3" stroke="#15212B" stroke-width="7"/>
+</g>
+<!-- goteo -->
+<path d="M120 500c10 0 10 14 0 24s-10-24 0-24z" fill="#2F6FA3"/>
+</svg>
